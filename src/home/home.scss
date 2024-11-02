@@ -1,0 +1,27 @@
+.headerKargin {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  padding: 30px;
+  .karginTop {
+    background-image: url("./../image/kargin\ logo.jpg");
+    width: 250px;
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .headerKargin {
+    .karginTop {
+      visibility: hidden;
+    }
+  }
+}

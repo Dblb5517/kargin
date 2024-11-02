@@ -1,0 +1,11 @@
+.quizzKargin {
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  .contentKargin {
+  }
+}
+@media screen and (max-width: 1024px) {
+  .quizzKargin {
+    font-size: 28px;
+  }
+}
