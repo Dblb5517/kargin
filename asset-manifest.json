@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/kargin/static/css/main.07ca9238.css",
+    "main.js": "/kargin/static/js/main.dc31bce3.js",
+    "static/js/453.4729e98d.chunk.js": "/kargin/static/js/453.4729e98d.chunk.js",
+    "static/media/hambal.png": "/kargin/static/media/hambal.6931f1d11f4d6d00aff4.png",
+    "static/media/Gizhem.png": "/kargin/static/media/Gizhem.64100379e8511bcd0815.png",
+    "static/media/furer.png": "/kargin/static/media/furer.415e3fbc358f76fb4a44.png",
+    "static/media/5point.mp4": "/kargin/static/media/5point.ea9a02688864322bc14a.mp4",
+    "static/media/paka.png": "/kargin/static/media/paka.38256b877d2b5c97d683.png",
+    "static/media/xosq.png": "/kargin/static/media/xosq.6942cc4550e804e134be.png",
+    "static/media/nver.png": "/kargin/static/media/nver.048938ce208e5ad39458.png",
+    "static/media/raf.png": "/kargin/static/media/raf.4055a26d9a48593a6277.png",
+    "static/media/ag@.png": "/kargin/static/media/ag@.2bf0b271da9ae54bfc3f.png",
+    "static/media/knik.png": "/kargin/static/media/knik.1c4ea2c60f0ce84f692f.png",
+    "static/media/15point.mp4": "/kargin/static/media/15point.37866a0a63b8453ab920.mp4",
+    "static/media/utelu.png": "/kargin/static/media/utelu.69fa6a2b49fbcca457bd.png",
+    "static/media/nker.png": "/kargin/static/media/nker.49eb5e4f15cde5ac021f.png",
+    "static/media/10point.mp4": "/kargin/static/media/10point.0d3f932e1add349c875f.mp4",
+    "static/media/20point.mp4": "/kargin/static/media/20point.275fe6a0e7704db88f40.mp4",
+    "static/media/gisher.png": "/kargin/static/media/gisher.c440b80babee0457b838.png",
+    "static/media/urax.png": "/kargin/static/media/urax.295454da16c02a3f9f1a.png",
+    "static/media/lusamut.png": "/kargin/static/media/lusamut.1478b712c70dda4aa2e6.png",
+    "static/media/EXXXX.png": "/kargin/static/media/EXXXX.5fe529305e92e6674bb0.png",
+    "static/media/Duq.png": "/kargin/static/media/Duq.df2ffa77c19b5dacf36b.png",
+    "static/media/0.2point.mp4": "/kargin/static/media/0.2point.fc9b4266aaaa496e5a21.mp4",
+    "static/media/kargin logo.jpg": "/kargin/static/media/kargin logo.26336acb67f6ff5874bf.jpg",
+    "index.html": "/kargin/index.html",
+    "main.07ca9238.css.map": "/kargin/static/css/main.07ca9238.css.map",
+    "main.dc31bce3.js.map": "/kargin/static/js/main.dc31bce3.js.map",
+    "453.4729e98d.chunk.js.map": "/kargin/static/js/453.4729e98d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ca9238.css",
+    "static/js/main.dc31bce3.js"
+  ]
+}
