@@ -95,7 +95,7 @@ export const questions = [
     },
     {
         questionImg: question8,
-        question: '...',
+        question: 'Inchu es hayhoyum gitutyan as gyut@ vori annune...',
         answer1: 'Israel',
         answer2: 'Zhiguli',
         answer3: 'meqena',
@@ -106,7 +106,7 @@ export const questions = [
     },
     {
         questionImg: question9,
-        question: '...',
+        question: 'Nker naxagah, vonc qcum brnumem',
         answer1: 'es Sahaki glux@ pti jardem',
         answer2: 'es Sahakin mormsh pti anem',
         answer3: 'pti zangem Dogin',
@@ -117,7 +117,7 @@ export const questions = [
     },
     {
         questionImg: question10,
-        question: '...',
+        question: 'Lsi quro jan, es uzumes erexus xosq@',
         answer1: 'ttvi vret',
         answer2: 'sax kyanq asnavani chlini',
         answer3: 'mna vzit',
@@ -150,7 +150,7 @@ export const questions = [
     },
     {
         questionImg: question13,
-        question: '...',
+        question: 'Et sev ikrayov fur@ darnuma...',
         answer1: 'msov fur',
         answer2: 'esim inch',
         answer3: 'garoxov fur',
@@ -172,7 +172,7 @@ export const questions = [
     },
     {
         questionImg: question15,
-        question: '...',
+        question: 'Imijayloc gisherva ntacqum es... ',
         answer1: 'taks ei arel',
         answer2: 'ereq angam durs ei ekel',
         answer3: 'erku angam durs ei ekel',
@@ -183,7 +183,7 @@ export const questions = [
     },
     {
         questionImg: question16,
-        question: '...',
+        question: 'Nnenc nver piti anenq vor...',
         answer1: 'chmorana',
         answer2: 'sax kyanq hishi',
         answer3: 'chposhmani',
