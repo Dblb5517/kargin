@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kargin/static/css/main.07ca9238.css",
-    "main.js": "/kargin/static/js/main.dc31bce3.js",
+    "main.js": "/kargin/static/js/main.dd38ae01.js",
     "static/js/453.4729e98d.chunk.js": "/kargin/static/js/453.4729e98d.chunk.js",
     "static/media/hambal.png": "/kargin/static/media/hambal.6931f1d11f4d6d00aff4.png",
     "static/media/Gizhem.png": "/kargin/static/media/Gizhem.64100379e8511bcd0815.png",
@@ -27,11 +27,11 @@
     "static/media/kargin logo.jpg": "/kargin/static/media/kargin logo.26336acb67f6ff5874bf.jpg",
     "index.html": "/kargin/index.html",
     "main.07ca9238.css.map": "/kargin/static/css/main.07ca9238.css.map",
-    "main.dc31bce3.js.map": "/kargin/static/js/main.dc31bce3.js.map",
+    "main.dd38ae01.js.map": "/kargin/static/js/main.dd38ae01.js.map",
     "453.4729e98d.chunk.js.map": "/kargin/static/js/453.4729e98d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07ca9238.css",
-    "static/js/main.dc31bce3.js"
+    "static/js/main.dd38ae01.js"
   ]
 }
