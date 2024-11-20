@@ -13,7 +13,12 @@ import question12 from "./image/urax.png";
 import question13 from "./image/furer.png"
 import question14 from "./image/Duq.png";
 import question15 from "./image/gisher.png";
-import question16 from "./image/nver.png"
+import question16 from "./image/nver.png";
+import question17 from "./image/popoq.png";
+import question18 from "./image/pskov.png";
+import question19 from "./image/baxt.png";
+import question20 from "./image/table.png";
+import question21 from "./image/haykakan.png"
 
 export const questions = [
     {
@@ -191,5 +196,60 @@ export const questions = [
         correct: 2,
         fifty: [1,2],
         audience: [60,25,10,5],
-    }
+    },
+    {
+        questionImg: question17,
+        question: 'Popoq u smetan...',
+        answer1: 'kyan',
+        answer2: 'bzhishk jaan',
+        answer3: 'pnduk u smetan',
+        answer4: 'popoq u smetan',
+        correct: 4,
+        fifty: [3,4],
+        audience: [10,5,30,55],
+    },
+    {
+        questionImg: question18,
+        question: 'Varanyozheinq...',
+        answer1: 'Padnizhniy Pskov',
+        answer2: 'gorc einq anum ',
+        answer3: 'Padnizhniy Piter',
+        answer4: 'laver',
+        correct: 1,
+        fifty: [1,3],
+        audience: [50,5,10,35],
+    },
+    {
+        questionImg: question19,
+        question: 'Im baxt@ berec es menak.....',
+        answer1: 'Infarkt staca',
+        answer2: 'Insult staca',
+        answer3: 'Chloti staca',
+        answer4: 'chakatagryan harvac staca',
+        correct: 2,
+        fifty: [1,2],
+        audience: [20,50,10,20],
+    },
+    {
+        questionImg: question20,
+        question: 'Go to.....',
+        answer1: 'Sauna',
+        answer2: 'Table',
+        answer3: 'aystexic ara',
+        answer4: 'ara',
+        correct: 2,
+        fifty: [2,4],
+        audience: [5,60,10,25],
+    },
+    {
+        questionImg: question21,
+        question: 'Haykakan.....',
+        answer1: 'kino em nayum ara',
+        answer2: 'par em parel',
+        answer3: 'serialnerem nayum',
+        answer4: 'kofe em xmum',
+        correct: 3,
+        fifty: [1,3],
+        audience: [30,10,50,10],
+    },
 ]
