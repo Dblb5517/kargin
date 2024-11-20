@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.7eeae08f.css",
-    "main.js": "/static/js/main.f9a161e7.js",
+    "main.js": "/static/js/main.999239a3.js",
     "static/js/453.4729e98d.chunk.js": "/static/js/453.4729e98d.chunk.js",
+    "static/media/pskov.png": "/static/media/pskov.99a57857fa37789bb8e9.png",
     "static/media/hambal.png": "/static/media/hambal.6931f1d11f4d6d00aff4.png",
     "static/media/Gizhem.png": "/static/media/Gizhem.64100379e8511bcd0815.png",
+    "static/media/table.png": "/static/media/table.ba3fa7444b2bbad68fad.png",
     "static/media/furer.png": "/static/media/furer.415e3fbc358f76fb4a44.png",
     "static/media/5point.mp4": "/static/media/5point.ea9a02688864322bc14a.mp4",
+    "static/media/popoq.png": "/static/media/popoq.485af73b1a79b4b9ca84.png",
     "static/media/paka.png": "/static/media/paka.38256b877d2b5c97d683.png",
     "static/media/xosq.png": "/static/media/xosq.6942cc4550e804e134be.png",
     "static/media/nver.png": "/static/media/nver.048938ce208e5ad39458.png",
+    "static/media/baxt.png": "/static/media/baxt.9c398e4cc977e86f4478.png",
     "static/media/raf.png": "/static/media/raf.4055a26d9a48593a6277.png",
     "static/media/ag@.png": "/static/media/ag@.2bf0b271da9ae54bfc3f.png",
     "static/media/knik.png": "/static/media/knik.1c4ea2c60f0ce84f692f.png",
@@ -20,6 +24,7 @@
     "static/media/20point.mp4": "/static/media/20point.275fe6a0e7704db88f40.mp4",
     "static/media/gisher.png": "/static/media/gisher.c440b80babee0457b838.png",
     "static/media/urax.png": "/static/media/urax.295454da16c02a3f9f1a.png",
+    "static/media/haykakan.png": "/static/media/haykakan.592544be7acae1a782f3.png",
     "static/media/lusamut.png": "/static/media/lusamut.1478b712c70dda4aa2e6.png",
     "static/media/EXXXX.png": "/static/media/EXXXX.5fe529305e92e6674bb0.png",
     "static/media/Duq.png": "/static/media/Duq.df2ffa77c19b5dacf36b.png",
@@ -27,11 +32,11 @@
     "static/media/kargin logo.jpg": "/static/media/kargin logo.26336acb67f6ff5874bf.jpg",
     "index.html": "/index.html",
     "main.7eeae08f.css.map": "/static/css/main.7eeae08f.css.map",
-    "main.f9a161e7.js.map": "/static/js/main.f9a161e7.js.map",
+    "main.999239a3.js.map": "/static/js/main.999239a3.js.map",
     "453.4729e98d.chunk.js.map": "/static/js/453.4729e98d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eeae08f.css",
-    "static/js/main.f9a161e7.js"
+    "static/js/main.999239a3.js"
   ]
 }
