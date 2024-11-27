@@ -19,6 +19,10 @@ import question18 from "./image/pskov.png";
 import question19 from "./image/baxt.png";
 import question20 from "./image/table.png";
 import question21 from "./image/haykakan.png"
+import question22 from "./image/zargacac.png";
+import question23 from "./image/lava.png";
+
+
 
 export const questions = [
     {
@@ -203,7 +207,7 @@ export const questions = [
         answer1: 'kyan',
         answer2: 'bzhishk jaan',
         answer3: 'pnduk u smetan',
-        answer4: 'popoq u smetan',
+        answer4: 'nerkayacuma',
         correct: 4,
         fifty: [3,4],
         audience: [10,5,30,55],
@@ -251,5 +255,27 @@ export const questions = [
         correct: 3,
         fifty: [1,3],
         audience: [30,10,50,10],
+    },
+    {
+        questionImg: question22,
+        question: 'Asen peset gone.....',
+        answer1: 'xelaci a',
+        answer2: 'zargacac erkrica',
+        answer3: 'gone ari qezi sirem',
+        answer4: 'mi ban giti',
+        correct: 2,
+        fifty: [1,2],
+        audience: [20,50,10,10],
+    },
+    {
+        questionImg: question23,
+        question: 'Lava.....',
+        answer1: 'danaks motser',
+        answer2: 'kniks stex cher',
+        answer3: 'two two two lava',
+        answer4: 'zenqs mots er',
+        correct: 1,
+        fifty: [1,4],
+        audience: [60,10,10,20],
     },
 ]

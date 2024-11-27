@@ -27,7 +27,7 @@ const Quiz = () => {
   // Function to initialize the quiz with 10 random questions
   const initializeQuiz = () => {
     const shuffledQuestions = shuffleArray([...questions]); // Shuffle and clone the array
-    setQuestionSet(shuffledQuestions.slice(0, 16)); // 
+    setQuestionSet(shuffledQuestions.slice(0, 23)); // 
     setCurrentQuestionIndex(0);
     setSelectedAnswer(null);
     setIsAnswered(false);
