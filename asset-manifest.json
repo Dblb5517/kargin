@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7eeae08f.css",
-    "main.js": "/static/js/main.999239a3.js",
+    "main.js": "/static/js/main.ea14b56f.js",
     "static/js/453.4729e98d.chunk.js": "/static/js/453.4729e98d.chunk.js",
     "static/media/pskov.png": "/static/media/pskov.99a57857fa37789bb8e9.png",
     "static/media/hambal.png": "/static/media/hambal.6931f1d11f4d6d00aff4.png",
@@ -14,6 +14,7 @@
     "static/media/xosq.png": "/static/media/xosq.6942cc4550e804e134be.png",
     "static/media/nver.png": "/static/media/nver.048938ce208e5ad39458.png",
     "static/media/baxt.png": "/static/media/baxt.9c398e4cc977e86f4478.png",
+    "static/media/zargacac.png": "/static/media/zargacac.dbb88a74b210967e232e.png",
     "static/media/raf.png": "/static/media/raf.4055a26d9a48593a6277.png",
     "static/media/ag@.png": "/static/media/ag@.2bf0b271da9ae54bfc3f.png",
     "static/media/knik.png": "/static/media/knik.1c4ea2c60f0ce84f692f.png",
@@ -25,6 +26,7 @@
     "static/media/gisher.png": "/static/media/gisher.c440b80babee0457b838.png",
     "static/media/urax.png": "/static/media/urax.295454da16c02a3f9f1a.png",
     "static/media/haykakan.png": "/static/media/haykakan.592544be7acae1a782f3.png",
+    "static/media/lava.png": "/static/media/lava.2b8f597d1d2e5e554281.png",
     "static/media/lusamut.png": "/static/media/lusamut.1478b712c70dda4aa2e6.png",
     "static/media/EXXXX.png": "/static/media/EXXXX.5fe529305e92e6674bb0.png",
     "static/media/Duq.png": "/static/media/Duq.df2ffa77c19b5dacf36b.png",
@@ -32,11 +34,11 @@
     "static/media/kargin logo.jpg": "/static/media/kargin logo.26336acb67f6ff5874bf.jpg",
     "index.html": "/index.html",
     "main.7eeae08f.css.map": "/static/css/main.7eeae08f.css.map",
-    "main.999239a3.js.map": "/static/js/main.999239a3.js.map",
+    "main.ea14b56f.js.map": "/static/js/main.ea14b56f.js.map",
     "453.4729e98d.chunk.js.map": "/static/js/453.4729e98d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eeae08f.css",
-    "static/js/main.999239a3.js"
+    "static/js/main.ea14b56f.js"
   ]
 }
